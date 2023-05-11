@@ -32,7 +32,7 @@ a {
 	border-radius: 30px;
 }
 a:visited, a:active, a:hover {
-	color: lightgray;
+	color: black;
 	background: aliceblue;
 }
 .conteudo-caixa1 {
